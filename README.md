@@ -63,3 +63,17 @@ Files
 tmdb-movies.csv
 
 Questions to answer
+
+Question 1:How long is the average movie runtime?
+
+Question 2:Which year has the highest release of movies?
+
+Question 3:Which length movies most liked by the audiences according to their popularity?
+
+Question 4:What is the Average Runtime Of Movies From Year To Year?
+
+Question 5:Is the rating of movies getting better or worse or staying the same over time?
+
+Question 6:What is the highest rated movie?
+
+Question 7:What is the most popular genre over the years?
