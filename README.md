@@ -77,3 +77,32 @@ Question 5:Is the rating of movies getting better or worse or staying the same o
 Question 6:What is the highest rated movie?
 
 Question 7:What is the most popular genre over the years?
+
+Conclusions
+1-Highest rated movie is 'Jurassic World'
+
+2-Movie ratings are getting worse overtime
+
+3-Highest average rating year is 1973 while 2012 had the lowest average rating for movies
+
+4-Runtime decreased signficantly over the years
+
+5-Average runtime of movies is 109 mins
+
+6-Highest movie runtime year is 1965 while the lowest is 1987
+
+7-Highest movie average vote year is 1960 while the lowest is 2000
+
+8-2011 had the highest number of movies produced while 1969 had the lowest
+
+9-There is a strong positive correlation between profit and revenue
+
+10-As the budget for the movie increases the revenue increases
+
+11-Drama is the most popular genre of movies
+
+limitations: 1-budget and revenue had alot of zeroes also they do not have a currency
+
+2-incorrect datatypes
+
+3-i had to drop a lot of NA values
